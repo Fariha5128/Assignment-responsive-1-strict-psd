@@ -167,7 +167,7 @@ a,a:hover{
 	text-align: center;
 }
 .icon-section .icon-inner img{
-	margin-bottom:15px;
+	margin-bottom:25px;
 }
 
 .icon-section .icon-inner h4{
@@ -427,9 +427,9 @@ a,a:hover{
 
 .footer-section .copyright{
 /*	margin:30px auto;*/
-	color: #eee;
+	color: #A0A0A0;
 	text-align: center;
-    margin-top: 25px;
+         margin-top: 25px;
 	
 }
 
