@@ -85,8 +85,8 @@ a,a:hover{
 	font-size: 14px;
 }
 .banner-inner .btn:hover{
-	background:#15a4fa;
-	color: #fff;
+	background:transparent;
+	color: #15a4fa;
 	border: 1px solid #15a4fa;
 }
 .arrow{
@@ -262,7 +262,7 @@ a,a:hover{
   padding: 10px;
 
 }
-.features-inner:hover .hover-feature{
+.card:hover .hover-feature{
 	display: block;
 	transition: 1s;
 }
@@ -427,7 +427,7 @@ a,a:hover{
 
 .footer-section .copyright{
 /*	margin:30px auto;*/
-	color: gray;
+	color: #eee;
 	text-align: center;
     margin-top: 25px;
 	
